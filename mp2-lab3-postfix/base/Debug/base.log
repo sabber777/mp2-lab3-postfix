@@ -1,0 +1,5 @@
+﻿  sample_postfix.cpp
+  postfix.cpp
+d:\prog\mp2-lab3-postfix\base\postfix.cpp(86): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  base.vcxproj -> D:\prog\mp2-lab3-postfix\Debug\base.exe
